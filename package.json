@@ -3,5 +3,11 @@
   "version": "0.0.1",
   "description": "Personal Finance Manager",
   "main": "main.js",
-  "author": "Zé Cipriano"
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Zé Cipriano",
+  "devDependencies": {
+    "electron": "^24.1.3"
+  }
 }
